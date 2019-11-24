@@ -1,0 +1,4 @@
+C:\Users\zzeke\source\repos\FoodProject.Infrastructure\bin\Debug\netcoreapp3.0\FoodStorage.Core.dll
+C:\Users\zzeke\source\repos\FoodProject.Infrastructure\obj\Debug\netcoreapp3.0\FoodStorage.Infrastructure.csprojAssemblyReference.cache
+C:\Users\zzeke\source\repos\FoodProject.Infrastructure\obj\Debug\netcoreapp3.0\FoodStorage.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\zzeke\source\repos\FoodProject.Infrastructure\obj\Debug\netcoreapp3.0\FoodStorage.Infrastructure.AssemblyInfo.cs
